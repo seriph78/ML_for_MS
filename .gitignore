@@ -1,2 +1,4 @@
-./Enrichment/MicroarrayFull_enrichment.RCTM.tsv
-./Enrichment/MicroarrayFull_enrichment.KEGG.tsv
+./Enrichment/background.json
+./Enrichment/gene_list.json
+./Enrichment/9606.protein.aliases.v12.0.txt.gz
+./Enrichment/9606.protein.info.v12.0.txt.gz
