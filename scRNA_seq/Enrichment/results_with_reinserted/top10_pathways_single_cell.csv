@@ -1,0 +1,31 @@
+"dataset","rank","database","pathway","fdr","genes_in_pathway","input_genes","mapped_genes"
+"BCELLS_CSF",1,"Reactome","Eukaryotic Translation Elongation",1.21e-30,"72",2115,1847
+"BCELLS_CSF",2,"Reactome","Peptide chain elongation",1.21e-30,"71",2115,1847
+"BCELLS_CSF",3,"Reactome","Viral mRNA Translation",1.16e-29,"69",2115,1847
+"BCELLS_CSF",4,"Reactome","Formation of a pool of free 40S subunits",1.8e-29,"72",2115,1847
+"BCELLS_CSF",5,"Reactome","Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)",2.36e-29,"70",2115,1847
+"BCELLS_CSF",6,"Reactome","Eukaryotic Translation Termination",3.98e-29,"69",2115,1847
+"BCELLS_CSF",7,"Reactome","Selenocysteine synthesis",3.98e-29,"69",2115,1847
+"BCELLS_CSF",8,"Reactome","L13a-mediated translational silencing of Ceruloplasmin expression",1.45e-28,"73",2115,1847
+"BCELLS_CSF",9,"Reactome","GTP hydrolysis and joining of the 60S ribosomal subunit",9.42e-28,"72",2115,1847
+"BCELLS_CSF",10,"Reactome","Response of EIF2AK4 (GCN2) to amino acid deficiency",9.42e-28,"69",2115,1847
+"BCELLS_PBMC",1,"KEGG","Protein processing in endoplasmic reticulum",3.76e-18,"32",439,388
+"BCELLS_PBMC",2,"Reactome","Asparagine N-linked glycosylation",8.26e-12,"34",439,388
+"BCELLS_PBMC",3,"Reactome","XBP1(S) activates chaperone genes",1.38e-07,"13",439,388
+"BCELLS_PBMC",4,"Reactome","Unfolded Protein Response (UPR)",1.27e-06,"15",439,388
+"BCELLS_PBMC",5,"KEGG","N-Glycan biosynthesis",2.99e-06,"11",439,388
+"BCELLS_PBMC",6,"KEGG","Various types of N-glycan biosynthesis",2.72e-05,"9",439,388
+"BCELLS_PBMC",7,"Reactome","Metabolism of proteins",5.38e-05,"72",439,388
+"BCELLS_PBMC",8,"Reactome","Post-translational protein modification",0.00011,"57",439,388
+"BCELLS_PBMC",9,"Reactome","Transport to the Golgi and subsequent modification",0.0028,"15",439,388
+"BCELLS_PBMC",10,"Reactome","Cargo concentration in the ER",0.0029,"7",439,388
+"CD4_CSF",1,"Reactome","Eukaryotic Translation Elongation",5.06e-53,"82",1277,1143
+"CD4_CSF",2,"Reactome","Peptide chain elongation",2.07e-52,"80",1277,1143
+"CD4_CSF",3,"Reactome","Eukaryotic Translation Termination",1.28e-51,"80",1277,1143
+"CD4_CSF",4,"Reactome","Viral mRNA Translation",1.28e-51,"79",1277,1143
+"CD4_CSF",5,"Reactome","Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)",2.62e-51,"80",1277,1143
+"CD4_CSF",6,"Reactome","Response of EIF2AK4 (GCN2) to amino acid deficiency",6.37e-51,"81",1277,1143
+"CD4_CSF",7,"Reactome","Selenocysteine synthesis",6.37e-51,"79",1277,1143
+"CD4_CSF",8,"Reactome","Formation of a pool of free 40S subunits",3.78e-49,"79",1277,1143
+"CD4_CSF",9,"Reactome","Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)",5.63e-48,"81",1277,1143
+"CD4_CSF",10,"Reactome","SRP-dependent cotranslational protein targeting to membrane",5.63e-48,"80",1277,1143

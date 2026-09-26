@@ -1,0 +1,2 @@
+"stringdb_version","species","score_threshold","background","databases","ranking","result_status"
+"12.0",9606,400,"STRING genome (default)","KEGG;Reactome","ascending FDR; duplicate pathway names retain smallest FDR","no KEGG/Reactome pathway rows returned"

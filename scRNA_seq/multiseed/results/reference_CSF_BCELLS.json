@@ -1,0 +1,83 @@
+{
+  "dataset": "CSF_BCELLS",
+  "fitted_params": {
+    "gamma": 1e-06,
+    "learning_rate": 0.050020916043633644,
+    "max_depth": 15.0,
+    "min_child_weight": 3.0,
+    "n_estimators": 3000.0,
+    "reg_alpha": 0.00010871970763546638,
+    "reg_lambda": 100.0,
+    "scale_pos_weight": 0.7843137254901961
+  },
+  "h5ad": "/disk1/f.massafra/paper/ML/Store/CSF_BCELLS/datasetDeclustered.h5ad",
+  "metrics": [
+    {
+      "accuracy": 1.0,
+      "brier": 0.0005408995784819126,
+      "f1": 1.0,
+      "f1_macro": 1.0,
+      "n_obs": 1392,
+      "precision": 1.0,
+      "recall": 1.0,
+      "roc_auc": 1.0,
+      "split": "train"
+    },
+    {
+      "accuracy": 1.0,
+      "brier": 0.0004416586016304791,
+      "f1": 1.0,
+      "f1_macro": 1.0,
+      "n_obs": 348,
+      "precision": 1.0,
+      "recall": 1.0,
+      "roc_auc": 1.0,
+      "split": "validation"
+    },
+    {
+      "accuracy": 0.9329608938547486,
+      "brier": 0.04988136515021324,
+      "f1": 0.9083969465648855,
+      "f1_macro": 0.9277667552207687,
+      "n_obs": 358,
+      "precision": 0.9015151515151515,
+      "recall": 0.9153846153846154,
+      "roc_auc": 0.9829622132253711,
+      "split": "test"
+    }
+  ],
+  "notebook_seed": 59,
+  "partitions": {
+    "test": {
+      "cells": 358,
+      "patients": [
+        "83775",
+        "71658",
+        "74594",
+        "58637"
+      ]
+    },
+    "train": {
+      "cells": 1392,
+      "patients": [
+        "45044",
+        "JYJ_CSF",
+        "YYW_CSF",
+        "60249",
+        "32190",
+        "49131",
+        "19270"
+      ]
+    },
+    "validation": {
+      "cells": 348,
+      "patients": [
+        "KJS_CSF",
+        "41540"
+      ]
+    }
+  },
+  "run": "reference/CSF_BCELLS",
+  "run_type": "reference",
+  "source": "paper/ML/CSF BCELLS .ipynb cell 22"
+}

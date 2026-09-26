@@ -1,0 +1,137 @@
+"dataset","database","pathway","fdr","genes_in_pathway","input_genes","mapped_genes"
+"BCELLS_CSF","Reactome","Eukaryotic Translation Elongation",1.21e-30,"72",2115,1847
+"BCELLS_CSF","Reactome","Peptide chain elongation",1.21e-30,"71",2115,1847
+"BCELLS_CSF","Reactome","Viral mRNA Translation",1.16e-29,"69",2115,1847
+"BCELLS_CSF","Reactome","Formation of a pool of free 40S subunits",1.8e-29,"72",2115,1847
+"BCELLS_CSF","Reactome","Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)",2.36e-29,"70",2115,1847
+"BCELLS_CSF","Reactome","Eukaryotic Translation Termination",3.98e-29,"69",2115,1847
+"BCELLS_CSF","Reactome","Selenocysteine synthesis",3.98e-29,"69",2115,1847
+"BCELLS_CSF","Reactome","L13a-mediated translational silencing of Ceruloplasmin expression",1.45e-28,"73",2115,1847
+"BCELLS_CSF","Reactome","GTP hydrolysis and joining of the 60S ribosomal subunit",9.42e-28,"72",2115,1847
+"BCELLS_CSF","Reactome","Response of EIF2AK4 (GCN2) to amino acid deficiency",9.42e-28,"69",2115,1847
+"BCELLS_CSF","Reactome","Cap-dependent Translation Initiation",2.77e-27,"73",2115,1847
+"BCELLS_CSF","Reactome","Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)",1.03e-26,"71",2115,1847
+"BCELLS_CSF","Reactome","Selenoamino acid metabolism",1.33e-26,"71",2115,1847
+"BCELLS_CSF","Reactome","SRP-dependent cotranslational protein targeting to membrane",3.7e-26,"69",2115,1847
+"BCELLS_CSF","KEGG","Ribosome",1.08e-23,"71",2115,1847
+"BCELLS_CSF","Reactome","Influenza Viral RNA Transcription and Replication",1.69e-23,"71",2115,1847
+"BCELLS_CSF","Reactome","Influenza Infection",1.44e-22,"74",2115,1847
+"BCELLS_CSF","Reactome","Cellular response to starvation",2.05e-21,"72",2115,1847
+"BCELLS_CSF","Reactome","Regulation of expression of SLITs and ROBOs",1e-19,"72",2115,1847
+"BCELLS_CSF","Reactome","Signaling by ROBO receptors",4.4e-19,"80",2115,1847
+"BCELLS_CSF","Reactome","Major pathway of rRNA processing in the nucleolus and cytosol",2.35e-17,"70",2115,1847
+"BCELLS_CSF","Reactome","Nervous system development",1.27e-14,"128",2115,1847
+"BCELLS_CSF","Reactome","Axon guidance",1.84e-14,"124",2115,1847
+"BCELLS_CSF","Reactome","SARS-CoV-1 modulates host translation machinery",4.91e-12,"28",2115,1847
+"BCELLS_CSF","Reactome","Infectious disease",9.17e-12,"165",2115,1847
+"BCELLS_CSF","Reactome","Translation",9.17e-12,"77",2115,1847
+"BCELLS_CSF","Reactome","Metabolism of amino acids and derivatives",2.42e-11,"88",2115,1847
+"BCELLS_CSF","Reactome","Formation of the ternary complex, and subsequently, the 43S complex",1.07e-10,"30",2115,1847
+"BCELLS_CSF","Reactome","Signal Transduction",1.97e-10,"349",2115,1847
+"BCELLS_CSF","Reactome","Translation initiation complex formation",2.83e-10,"31",2115,1847
+"BCELLS_CSF","Reactome","Developmental Biology",4.41e-10,"182",2115,1847
+"BCELLS_CSF","Reactome","Ribosomal scanning and start codon recognition",1.07e-09,"30",2115,1847
+"BCELLS_CSF","Reactome","SARS-CoV-2 modulates host translation machinery",3.6e-09,"27",2115,1847
+"BCELLS_CSF","Reactome","Cellular responses to stimuli",9.68e-09,"133",2115,1847
+"BCELLS_CSF","Reactome","Disease",1.9e-08,"244",2115,1847
+"BCELLS_CSF","Reactome","Cellular responses to stress",2.04e-08,"130",2115,1847
+"BCELLS_CSF","Reactome","SARS-CoV-1-host interactions",1.11e-07,"34",2115,1847
+"BCELLS_CSF","Reactome","Signaling by Receptor Tyrosine Kinases",7.86e-06,"91",2115,1847
+"BCELLS_CSF","Reactome","Immune System",1.21e-05,"258",2115,1847
+"BCELLS_CSF","Reactome","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",2.21e-05,"35",2115,1847
+"BCELLS_CSF","Reactome","SARS-CoV-1 Infection",3.76e-05,"36",2115,1847
+"BCELLS_CSF","Reactome","Signaling by GPCR",9.14e-05,"108",2115,1847
+"BCELLS_CSF","Reactome","GPCR downstream signalling",0.00027,"97",2115,1847
+"BCELLS_CSF","Reactome","Hemostasis",0.00067,"93",2115,1847
+"BCELLS_CSF","Reactome","SARS-CoV Infections",0.0012,"68",2115,1847
+"BCELLS_CSF","Reactome","SARS-CoV-2 Infection",0.0012,"53",2115,1847
+"BCELLS_CSF","Reactome","SARS-CoV-2-host interactions",0.0029,"39",2115,1847
+"BCELLS_CSF","Reactome","Metabolism",0.0046,"250",2115,1847
+"BCELLS_CSF","Reactome","Neutrophil degranulation",0.0048,"73",2115,1847
+"BCELLS_CSF","Reactome","Platelet activation, signaling and aggregation",0.0055,"46",2115,1847
+"BCELLS_CSF","KEGG","Th1 and Th2 cell differentiation",0.0061,"23",2115,1847
+"BCELLS_CSF","KEGG","Th17 cell differentiation",0.0061,"25",2115,1847
+"BCELLS_CSF","Reactome","GPCR ligand binding",0.0074,"70",2115,1847
+"BCELLS_CSF","Reactome","Innate Immune System",0.0106,"135",2115,1847
+"BCELLS_CSF","Reactome","Class A/1 (Rhodopsin-like receptors)",0.011,"53",2115,1847
+"BCELLS_CSF","Reactome","Metabolism of proteins",0.0142,"227",2115,1847
+"BCELLS_CSF","Reactome","RAC1 GTPase cycle",0.0168,"34",2115,1847
+"BCELLS_CSF","KEGG","Cytokine-cytokine receptor interaction",0.0175,"48",2115,1847
+"BCELLS_CSF","Reactome","Adaptive Immune System",0.0181,"102",2115,1847
+"BCELLS_CSF","KEGG","PD-L1 expression and PD-1 checkpoint pathway in cancer",0.0201,"21",2115,1847
+"BCELLS_CSF","KEGG","Hematopoietic cell lineage",0.0247,"21",2115,1847
+"BCELLS_CSF","KEGG","B cell receptor signaling pathway",0.0248,"19",2115,1847
+"BCELLS_CSF","Reactome","Signaling by NTRK1 (TRKA)",0.0271,"24",2115,1847
+"BCELLS_CSF","Reactome","Signaling by NOTCH2",0.0354,"11",2115,1847
+"BCELLS_CSF","Reactome","CD22 mediated BCR regulation",0.0361,"6",2115,1847
+"BCELLS_CSF","Reactome","RHO GTPase cycle",0.0361,"65",2115,1847
+"BCELLS_CSF","KEGG","Viral protein interaction with cytokine and cytokine receptor",0.038,"21",2115,1847
+"BCELLS_CSF","KEGG","Endocytosis",0.0385,"40",2115,1847
+"BCELLS_CSF","Reactome","Collagen degradation",0.0385,"16",2115,1847
+"BCELLS_CSF","Reactome","Cargo recognition for clathrin-mediated endocytosis",0.039,"22",2115,1847
+"BCELLS_CSF","Reactome","Extracellular matrix organization",0.0401,"47",2115,1847
+"BCELLS_CSF","Reactome","Leishmania infection",0.0414,"30",2115,1847
+"BCELLS_CSF","Reactome","Metabolism of RNA",0.0475,"93",2115,1847
+"BCELLS_CSF","Reactome","Phosphorylation of CD3 and TCR zeta chains",0.0475,"8",2115,1847
+"BCELLS_PBMC","KEGG","Protein processing in endoplasmic reticulum",3.76e-18,"32",439,388
+"BCELLS_PBMC","Reactome","Asparagine N-linked glycosylation",8.26e-12,"34",439,388
+"BCELLS_PBMC","Reactome","XBP1(S) activates chaperone genes",1.38e-07,"13",439,388
+"BCELLS_PBMC","Reactome","Unfolded Protein Response (UPR)",1.27e-06,"15",439,388
+"BCELLS_PBMC","KEGG","N-Glycan biosynthesis",2.99e-06,"11",439,388
+"BCELLS_PBMC","KEGG","Various types of N-glycan biosynthesis",2.72e-05,"9",439,388
+"BCELLS_PBMC","Reactome","Metabolism of proteins",5.38e-05,"72",439,388
+"BCELLS_PBMC","Reactome","Post-translational protein modification",0.00011,"57",439,388
+"BCELLS_PBMC","Reactome","Transport to the Golgi and subsequent modification",0.0028,"15",439,388
+"BCELLS_PBMC","Reactome","Cargo concentration in the ER",0.0029,"7",439,388
+"BCELLS_PBMC","Reactome","Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",0.0118,"9",439,388
+"BCELLS_PBMC","Reactome","Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",0.0146,"11",439,388
+"BCELLS_PBMC","Reactome","COPII-mediated vesicle transport",0.0224,"8",439,388
+"BCELLS_PBMC","Reactome","ER Quality Control Compartment (ERQC)",0.0235,"5",439,388
+"BCELLS_PBMC","Reactome","N-glycan trimming in the ER and Calnexin/Calreticulin cycle",0.0235,"6",439,388
+"BCELLS_PBMC","Reactome","Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)",0.0338,"4",439,388
+"CD4_CSF","Reactome","Eukaryotic Translation Elongation",5.06e-53,"82",1277,1143
+"CD4_CSF","Reactome","Peptide chain elongation",2.07e-52,"80",1277,1143
+"CD4_CSF","Reactome","Eukaryotic Translation Termination",1.28e-51,"80",1277,1143
+"CD4_CSF","Reactome","Viral mRNA Translation",1.28e-51,"79",1277,1143
+"CD4_CSF","Reactome","Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)",2.62e-51,"80",1277,1143
+"CD4_CSF","Reactome","Response of EIF2AK4 (GCN2) to amino acid deficiency",6.37e-51,"81",1277,1143
+"CD4_CSF","Reactome","Selenocysteine synthesis",6.37e-51,"79",1277,1143
+"CD4_CSF","Reactome","Formation of a pool of free 40S subunits",3.78e-49,"79",1277,1143
+"CD4_CSF","Reactome","Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)",5.63e-48,"81",1277,1143
+"CD4_CSF","Reactome","SRP-dependent cotranslational protein targeting to membrane",5.63e-48,"80",1277,1143
+"CD4_CSF","Reactome","L13a-mediated translational silencing of Ceruloplasmin expression",4.01e-47,"79",1277,1143
+"CD4_CSF","Reactome","Selenoamino acid metabolism",5.07e-47,"80",1277,1143
+"CD4_CSF","Reactome","GTP hydrolysis and joining of the 60S ribosomal subunit",5.58e-47,"79",1277,1143
+"CD4_CSF","KEGG","Ribosome",9.22e-43,"79",1277,1143
+"CD4_CSF","Reactome","Cellular response to starvation",1.92e-42,"83",1277,1143
+"CD4_CSF","Reactome","Influenza Infection",8.1e-41,"81",1277,1143
+"CD4_CSF","Reactome","Regulation of expression of SLITs and ROBOs",1.69e-39,"82",1277,1143
+"CD4_CSF","Reactome","Major pathway of rRNA processing in the nucleolus and cytosol",1.4e-38,"83",1277,1143
+"CD4_CSF","Reactome","rRNA processing",1.06e-36,"84",1277,1143
+"CD4_CSF","Reactome","Signaling by ROBO receptors",5.6e-35,"84",1277,1143
+"CD4_CSF","Reactome","Metabolism of amino acids and derivatives",3.37e-30,"99",1277,1143
+"CD4_CSF","Reactome","Translation",1.3e-28,"86",1277,1143
+"CD4_CSF","Reactome","Axon guidance",4.07e-22,"106",1277,1143
+"CD4_CSF","Reactome","Nervous system development",2.3e-21,"107",1277,1143
+"CD4_CSF","Reactome","SARS-CoV-1 modulates host translation machinery",8.72e-21,"32",1277,1143
+"CD4_CSF","Reactome","SARS-CoV-2 modulates host translation machinery",4.47e-17,"31",1277,1143
+"CD4_CSF","Reactome","Formation of the ternary complex, and subsequently, the 43S complex",1.01e-16,"31",1277,1143
+"CD4_CSF","Reactome","Cellular responses to stress",4.71e-16,"112",1277,1143
+"CD4_CSF","Reactome","Ribosomal scanning and start codon recognition",1.46e-15,"31",1277,1143
+"CD4_CSF","Reactome","Translation initiation complex formation",1.46e-15,"31",1277,1143
+"CD4_CSF","Reactome","Metabolism of RNA",7.17e-15,"105",1277,1143
+"CD4_CSF","Reactome","SARS-CoV-1-host interactions",1.05e-13,"35",1277,1143
+"CD4_CSF","Reactome","Developmental Biology",1.2e-12,"134",1277,1143
+"CD4_CSF","Reactome","Infectious disease",1.16e-11,"115",1277,1143
+"CD4_CSF","Reactome","Metabolism",2.99e-11,"205",1277,1143
+"CD4_CSF","Reactome","Metabolism of proteins",1.16e-07,"177",1277,1143
+"CD4_CSF","Reactome","Disease",6.93e-07,"158",1277,1143
+"CD4_CSF","Reactome","SARS-CoV-2-host interactions",1.13e-06,"36",1277,1143
+"CD4_CSF","Reactome","SARS-CoV-2 Infection",0.00034,"39",1277,1143
+"CD4_CSF","Reactome","SARS-CoV Infections",0.0051,"45",1277,1143
+"CD4_CSF","Reactome","Collagen chain trimerization",0.0079,"11",1277,1143
+"CD4_CSF","Reactome","Collagen degradation",0.0123,"13",1277,1143
+"CD4_CSF","Reactome","Extracellular matrix organization",0.0182,"34",1277,1143
+"CD4_CSF","Reactome","Assembly of collagen fibrils and other multimeric structures",0.0258,"12",1277,1143
+"CD4_CSF","Reactome","Integrin cell surface interactions",0.0437,"14",1277,1143
+"CD4_CSF","Reactome","ECM proteoglycans",0.0473,"13",1277,1143

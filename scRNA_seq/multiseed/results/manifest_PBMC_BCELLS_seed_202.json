@@ -1,0 +1,51 @@
+{
+  "dataset": "PBMC_BCELLS",
+  "fitted_params": {
+    "classifier__gamma": 0.3122642634952941,
+    "classifier__learning_rate": 0.10614832371999605,
+    "classifier__max_depth": 15.0,
+    "classifier__min_child_weight": 1.0,
+    "classifier__n_estimators": 50.0,
+    "classifier__reg_alpha": 0.007409471694944114,
+    "classifier__reg_lambda": 100.0,
+    "classifier__scale_pos_weight": 4.0
+  },
+  "matches_recorded_metrics": true,
+  "max_metric_difference": 0.0,
+  "metrics": [
+    {
+      "accuracy": 0.8940217391304348,
+      "brier": 0.07091157138347626,
+      "f1": 0.9188626907073509,
+      "f1_macro": 0.8830605881735187,
+      "n_obs": 2208,
+      "precision": 0.8515424164524421,
+      "recall": 0.9977409638554217,
+      "roc_auc": 0.9914225082146769,
+      "split": "train"
+    },
+    {
+      "accuracy": 0.5825049701789264,
+      "brier": 0.32051733136177063,
+      "f1": 0.7229551451187335,
+      "f1_macro": 0.4380904757851732,
+      "n_obs": 503,
+      "precision": 0.6157303370786517,
+      "recall": 0.8753993610223643,
+      "roc_auc": 0.42678661510005045,
+      "split": "test"
+    }
+  ],
+  "recorded_test_metrics": {
+    "accuracy": 0.5825049701789264,
+    "f1": 0.7229551451187335,
+    "f1_macro": 0.4380904757851732,
+    "precision": 0.6157303370786517,
+    "recall": 0.8753993610223643,
+    "roc_auc": 0.42678661510005045
+  },
+  "run": "manifest/PBMC_BCELLS/seed_202",
+  "run_type": "manifest",
+  "source": "results/strategy_a/PBMC_BCELLS/seed_202/bayes_search.joblib",
+  "split_seed": 202
+}

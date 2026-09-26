@@ -1,0 +1,4 @@
+"dataset","input_genes","mapped_rows","mapped_string_ids","unmapped_genes"
+"BCELLS_CSF",2115,1852,1847,295
+"BCELLS_PBMC",439,388,388,57
+"CD4_CSF",1277,1146,1143,171

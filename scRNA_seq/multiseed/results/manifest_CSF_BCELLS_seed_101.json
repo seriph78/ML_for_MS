@@ -1,0 +1,51 @@
+{
+  "dataset": "CSF_BCELLS",
+  "fitted_params": {
+    "classifier__gamma": 8.212365953869601e-06,
+    "classifier__learning_rate": 0.013541756623232419,
+    "classifier__max_depth": 2.0,
+    "classifier__min_child_weight": 1.0,
+    "classifier__n_estimators": 2583.0,
+    "classifier__reg_alpha": 2.1861818954442245e-05,
+    "classifier__reg_lambda": 6.354770818372603e-06,
+    "classifier__scale_pos_weight": 1.0
+  },
+  "matches_recorded_metrics": true,
+  "max_metric_difference": 0.0,
+  "metrics": [
+    {
+      "accuracy": 0.9959016393442623,
+      "brier": 0.004129724111407995,
+      "f1": 0.9960845732184808,
+      "f1_macro": 0.995892673539593,
+      "n_obs": 1220,
+      "precision": 0.99375,
+      "recall": 0.9984301412872841,
+      "roc_auc": 0.9985755484407776,
+      "split": "train"
+    },
+    {
+      "accuracy": 0.9504132231404959,
+      "brier": 0.03644682466983795,
+      "f1": 0.9538461538461539,
+      "f1_macro": 0.9501373626373626,
+      "n_obs": 484,
+      "precision": 0.9393939393939394,
+      "recall": 0.96875,
+      "roc_auc": 0.9902857730263158,
+      "split": "test"
+    }
+  ],
+  "recorded_test_metrics": {
+    "accuracy": 0.9504132231404959,
+    "f1": 0.9538461538461539,
+    "f1_macro": 0.9501373626373626,
+    "precision": 0.9393939393939394,
+    "recall": 0.96875,
+    "roc_auc": 0.9902857730263158
+  },
+  "run": "manifest/CSF_BCELLS/seed_101",
+  "run_type": "manifest",
+  "source": "results/strategy_a/CSF_BCELLS/seed_101/bayes_search.joblib",
+  "split_seed": 101
+}

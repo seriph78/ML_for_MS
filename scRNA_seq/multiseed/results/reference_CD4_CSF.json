@@ -1,0 +1,106 @@
+{
+  "dataset": "CD4_CSF",
+  "fitted_params": {
+    "gamma": 0.0001,
+    "learning_rate": 0.044980648663355424,
+    "max_depth": 15.0,
+    "min_child_weight": 8.0,
+    "n_estimators": 600.0,
+    "reg_alpha": 0.001,
+    "reg_lambda": 0.001,
+    "scale_pos_weight": 0.657875
+  },
+  "h5ad": "/disk1/f.massafra/paper/ML/Store/CD4_CSF_SAMU/CD4TNONAIVE_csf_datasetDeclustered.h5ad",
+  "matches_notebook_confusion": false,
+  "metrics": [
+    {
+      "accuracy": 1.0,
+      "brier": 0.0006779429968446493,
+      "f1": 1.0,
+      "f1_macro": 1.0,
+      "n_obs": 13263,
+      "precision": 1.0,
+      "recall": 1.0,
+      "roc_auc": 1.0,
+      "split": "train"
+    },
+    {
+      "accuracy": 1.0,
+      "brier": 0.000907792360521853,
+      "f1": 1.0,
+      "f1_macro": 1.0,
+      "n_obs": 4629,
+      "precision": 1.0,
+      "recall": 1.0,
+      "roc_auc": 1.0,
+      "split": "validation"
+    },
+    {
+      "accuracy": 0.7158101045296167,
+      "brier": 0.20678259432315826,
+      "f1": 0.8096835350736473,
+      "f1_macro": 0.6244378139485125,
+      "n_obs": 4592,
+      "precision": 0.7446351931330472,
+      "recall": 0.8871844039629274,
+      "roc_auc": 0.7096435632793305,
+      "split": "test"
+    }
+  ],
+  "notebook_confusion": [
+    [
+      519,
+      944
+    ],
+    [
+      362,
+      2767
+    ]
+  ],
+  "notebook_seed": 53,
+  "partitions": {
+    "test": {
+      "cells": 4592,
+      "patients": [
+        "60249",
+        "32190"
+      ]
+    },
+    "train": {
+      "cells": 13263,
+      "patients": [
+        "19270",
+        "49131",
+        "58637",
+        "74594",
+        "YYW_CSF",
+        "KJS_CSF",
+        "41540",
+        "45044",
+        "83775"
+      ]
+    },
+    "validation": {
+      "cells": 4629,
+      "patients": [
+        "71658",
+        "JYJ_CSF",
+        "85037",
+        "95809"
+      ]
+    }
+  },
+  "run": "reference/CD4_CSF",
+  "run_type": "reference",
+  "source": "paper/ML/CD4 CSF SAMU.ipynb cell 23 (search best_params_ refit)",
+  "test_confusion": [
+    [
+      511,
+      952
+    ],
+    [
+      353,
+      2776
+    ]
+  ]
+}

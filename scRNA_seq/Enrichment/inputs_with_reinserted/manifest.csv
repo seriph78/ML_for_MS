@@ -1,0 +1,4 @@
+dataset,input_genes,positive_shap_features,shap_cutoff_features,importance_file,clusters_file,selection_rule,gene_file
+CD4_CSF,1277,13117,1000,paper/ML/Store/CD4_CSF_SAMU/xgbCSFBCELLS_feature_importance.pkl,paper/ML/Store/CD4_CSF_SAMU/uniqueClusters.pkl,top 1000 positive SHAP features plus their declustering clusters,/disk1/f.massafra/paper/ML/Enrichment/inputs/CD4_CSF.txt
+BCELLS_CSF,2115,3073,1000,paper/ML/Store/CSF_BCELLS/xgbCSFBCELLS2_feature_importance.pkl,paper/ML/Store/CSF_BCELLS/uniqueClusters.pkl,top 1000 positive SHAP features plus their declustering clusters,/disk1/f.massafra/paper/ML/Enrichment/inputs/BCELLS_CSF.txt
+BCELLS_PBMC,439,96,96,paper/ML/Store/PBMC_BCELLS_2DATASET/xgbPBMCBCELLS_feature_importance.pkl,paper/ML/Store/PBMC_BCELLS_2DATASET/uniqueClusters.pkl,top 1000 positive SHAP features plus their declustering clusters,/disk1/f.massafra/paper/ML/Enrichment/inputs/BCELLS_PBMC.txt

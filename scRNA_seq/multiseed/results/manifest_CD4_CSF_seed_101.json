@@ -1,0 +1,51 @@
+{
+  "dataset": "CD4_CSF",
+  "fitted_params": {
+    "classifier__gamma": 0.0001,
+    "classifier__learning_rate": 0.1541037285152982,
+    "classifier__max_depth": 3.0,
+    "classifier__min_child_weight": 1.0,
+    "classifier__n_estimators": 431.0,
+    "classifier__reg_alpha": 0.09246229381008661,
+    "classifier__reg_lambda": 100.0,
+    "classifier__scale_pos_weight": 0.657875
+  },
+  "matches_recorded_metrics": true,
+  "max_metric_difference": 0.0,
+  "metrics": [
+    {
+      "accuracy": 0.9279540684035066,
+      "brier": 0.07332649827003479,
+      "f1": 0.9477735511300067,
+      "f1_macro": 0.9158328505824145,
+      "n_obs": 16198,
+      "precision": 0.950112157918349,
+      "recall": 0.9454464285714286,
+      "roc_auc": 0.9777335755730864,
+      "split": "train"
+    },
+    {
+      "accuracy": 0.7022222222222222,
+      "brier": 0.21261286735534668,
+      "f1": 0.8017164841669133,
+      "f1_macro": 0.602017920941619,
+      "n_obs": 4500,
+      "precision": 0.7464866354367594,
+      "recall": 0.8657718120805369,
+      "roc_auc": 0.6225409739574191,
+      "split": "test"
+    }
+  ],
+  "recorded_test_metrics": {
+    "accuracy": 0.7022222222222222,
+    "f1": 0.8017164841669133,
+    "f1_macro": 0.602017920941619,
+    "precision": 0.7464866354367594,
+    "recall": 0.8657718120805369,
+    "roc_auc": 0.6225409739574191
+  },
+  "run": "manifest/CD4_CSF/seed_101",
+  "run_type": "manifest",
+  "source": "results/strategy_a/CD4_CSF/seed_101/bayes_search.joblib",
+  "split_seed": 101
+}

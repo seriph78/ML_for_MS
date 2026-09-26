@@ -1,0 +1,18 @@
+name: ms-enrichment
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.4.2
+  - r-biocmanager=1.30.26
+  - r-jsonlite
+  - r-data.table
+  - r-readr
+  - r-dplyr
+  - r-tidyr
+  - r-httr2
+  - r-igraph=2.3.3
+  - r-png=0.1_9
+  - libxml2
+  - libpng
+  # STRINGdb is installed from Bioconductor after environment creation:
+  # R -e 'BiocManager::install("STRINGdb", ask=FALSE, update=FALSE)'

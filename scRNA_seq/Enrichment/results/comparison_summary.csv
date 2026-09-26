@@ -1,0 +1,7 @@
+condition,dataset,cluster_genes_reinserted,input_genes,mapped_string_ids,unmapped_genes,pathway_rows,top10_rows,status,manifest,result_directory
+without_reinserted,CD4_CSF,false,1000,874,126,0,0,no KEGG/Reactome pathway rows returned,inputs/manifest.csv,results/
+without_reinserted,BCELLS_CSF,false,1000,774,226,0,0,no KEGG/Reactome pathway rows returned,inputs/manifest.csv,results/
+without_reinserted,BCELLS_PBMC,false,96,84,12,0,0,no KEGG/Reactome pathway rows returned,inputs/manifest.csv,results/
+with_reinserted,CD4_CSF,true,1277,1143,134,46,10,pathway rows returned,inputs_with_reinserted/manifest.csv,results_with_reinserted/
+with_reinserted,BCELLS_CSF,true,2115,1847,268,74,10,pathway rows returned,inputs_with_reinserted/manifest.csv,results_with_reinserted/
+with_reinserted,BCELLS_PBMC,true,439,388,51,16,10,pathway rows returned,inputs_with_reinserted/manifest.csv,results_with_reinserted/

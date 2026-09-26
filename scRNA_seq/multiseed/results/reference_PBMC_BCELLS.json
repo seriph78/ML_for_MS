@@ -1,0 +1,85 @@
+{
+  "dataset": "PBMC_BCELLS",
+  "fitted_params": {
+    "gamma": 0.00010424606377892094,
+    "learning_rate": 0.08395998719982567,
+    "max_depth": 3.0,
+    "min_child_weight": 8.0,
+    "n_estimators": 1095.0,
+    "reg_alpha": 100.0,
+    "reg_lambda": 100.0,
+    "scale_pos_weight": 1.0
+  },
+  "h5ad": "/disk1/f.massafra/paper/ML/Store/PBMC_BCELLS_2DATASET/datasetDeclustered.h5ad",
+  "metrics": [
+    {
+      "accuracy": 0.7143799472295514,
+      "brier": 0.20303113758563995,
+      "f1": 0.8184486373165618,
+      "f1_macro": 0.5746029894465343,
+      "n_obs": 1516,
+      "precision": 0.746177370030581,
+      "recall": 0.9062209842154132,
+      "roc_auc": 0.6854831716380818,
+      "split": "train"
+    },
+    {
+      "accuracy": 0.7332155477031802,
+      "brier": 0.22197706997394562,
+      "f1": 0.6821052631578948,
+      "f1_macro": 0.7261363454297844,
+      "n_obs": 566,
+      "precision": 0.5276872964169381,
+      "recall": 0.9642857142857143,
+      "roc_auc": 0.926933776022972,
+      "split": "validation"
+    },
+    {
+      "accuracy": 0.7765284609978917,
+      "brier": 0.19935990869998932,
+      "f1": 0.8354037267080745,
+      "f1_macro": 0.7437412506625711,
+      "n_obs": 1423,
+      "precision": 0.7642045454545454,
+      "recall": 0.9212328767123288,
+      "roc_auc": 0.8049301712120074,
+      "split": "test"
+    }
+  ],
+  "notebook_seed": 46,
+  "partitions": {
+    "test": {
+      "cells": 1423,
+      "patients": [
+        "41540",
+        "19270",
+        "KJS_PBMC"
+      ]
+    },
+    "train": {
+      "cells": 1516,
+      "patients": [
+        "71658",
+        "95809",
+        "JSB_PBMC",
+        "49131",
+        "74594",
+        "JYJ_PBMC",
+        "KYO_PBMC",
+        "32190",
+        "60249"
+      ]
+    },
+    "validation": {
+      "cells": 566,
+      "patients": [
+        "85037",
+        "YYW_PBMC",
+        "83775"
+      ]
+    }
+  },
+  "run": "reference/PBMC_BCELLS",
+  "run_type": "reference",
+  "source": "paper/ML/PBMC BCELLS 2DATASET.ipynb cell 23"
+}

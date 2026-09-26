@@ -1,0 +1,97 @@
+{
+  "dataset": "CD4_PBMC",
+  "fitted_params": {
+    "gamma": 1e-06,
+    "learning_rate": 4.222975850408766,
+    "max_depth": 2.0,
+    "min_child_weight": 1.0,
+    "n_estimators": 1357.0,
+    "reg_alpha": 1e-06,
+    "reg_lambda": 1e-06,
+    "scale_pos_weight": 0.41007194244604317
+  },
+  "h5ad": "/disk1/f.massafra/paper/ML/Store/PBMC_CD4THANDPICK/datasetDeclustered.h5ad",
+  "matches_notebook_confusion": null,
+  "metrics": [
+    {
+      "accuracy": 0.5788712011577424,
+      "brier": 0.4211288094520569,
+      "f1": 0.721280072116739,
+      "f1_macro": 0.4300917331863068,
+      "n_obs": 11747,
+      "precision": 0.6387586069254565,
+      "recall": 0.8282867494824017,
+      "roc_auc": 0.4637825884759607,
+      "split": "train"
+    },
+    {
+      "accuracy": 0.5499800876144962,
+      "brier": 0.4500199258327484,
+      "f1": 0.705422314911366,
+      "f1_macro": 0.3763199264270152,
+      "n_obs": 2511,
+      "precision": 0.5789473684210527,
+      "recall": 0.9026017344896597,
+      "roc_auc": 0.4651348593396915,
+      "split": "validation"
+    },
+    {
+      "accuracy": 0.48441771459814104,
+      "brier": 0.515582263469696,
+      "f1": 0.6191437802907916,
+      "f1_macro": 0.41067172094065807,
+      "n_obs": 3658,
+      "precision": 0.45516627078384797,
+      "recall": 0.9678030303030303,
+      "roc_auc": 0.5415196443704159,
+      "split": "test"
+    }
+  ],
+  "notebook_confusion": null,
+  "notebook_seed": 47,
+  "partitions": {
+    "test": {
+      "cells": 3658,
+      "patients": [
+        "KYO_PBMC",
+        "95809",
+        "74594"
+      ]
+    },
+    "train": {
+      "cells": 11747,
+      "patients": [
+        "83775",
+        "19270",
+        "60249",
+        "KJS_PBMC",
+        "71658",
+        "YYW_PBMC",
+        "32190",
+        "JSB_PBMC",
+        "49131"
+      ]
+    },
+    "validation": {
+      "cells": 2511,
+      "patients": [
+        "85037",
+        "JYJ_PBMC",
+        "41540"
+      ]
+    }
+  },
+  "run": "reference/CD4_PBMC",
+  "run_type": "reference",
+  "source": "paper/ML/CD4NONAIVE MODEL.ipynb cell 22 (no stored output)",
+  "test_confusion": [
+    [
+      239,
+      1835
+    ],
+    [
+      51,
+      1533
+    ]
+  ]
+}
